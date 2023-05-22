@@ -20,6 +20,6 @@
         </style>
     </head>
     <body class="antialiased">
-            <h1>Hello Laravel !!</h1>
+            <h1>Hello Laravel </h1>
     </body>
 </html>
